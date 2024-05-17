@@ -1,0 +1,6 @@
+table, tr, td, th{
+    border: thick;
+    font-weight: 900;
+    padding: 0.5em;
+    border-collapse: collapse;
+}
